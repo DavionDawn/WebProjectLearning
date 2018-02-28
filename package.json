@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DavionDawn/WebProjectLearning/issues"
   },
-  "homepage": "https://github.com/DavionDawn/WebProjectLearning#readme"
+  "homepage": "https://github.com/DavionDawn/WebProjectLearning#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
